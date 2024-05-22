@@ -31,3 +31,12 @@ npm run dev
 ```sh
 npm run build
 ```
+### Informacoes Sobre o Projeto
+O projeto Rick and Morty tem as seguintes funcionabilidades:
+Pesquisar por todas as personagens do mundo do rick and morty devolvendo uma imagem o nome completo e o "status" da personagem dizendo se a mesma encontrasse viva ou morta no mundo do rick and morty
+Isto foi possivel utilizando o "Rick and Morty api".
+Tambem e possivel criar uma conta e ate e necessario pois sem conta nao e possivel pesquisar por personagens
+para criar o sistema de login foi utilizado o FIREBASE como base de dados para guardar as informacoes de login dos utilizador e para poder aceder.
+```sh
+https://rickandmortyapi.com/
+```
