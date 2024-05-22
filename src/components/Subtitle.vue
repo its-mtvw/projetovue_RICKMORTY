@@ -1,22 +1,12 @@
 <template>
-    <div class="item">
-      <img src="/src/components/Welcome-to-the-rick-and-morty-16-05-2024.png" alt="rick morty logo" class="centered-image">
-    </div>
+
+      
+
   </template>
   
   <style scoped>
-.item {
-  position: relative;
-  height: 100vh;
-  width: 100vw;
-}
 
-.centered-image {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+
   
   .details {
     flex: 1;
